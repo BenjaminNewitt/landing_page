@@ -2,7 +2,7 @@
   <div class="github row">
     <div class="col-12 bg-dark text-light text-center pt-5 pb-5">
       <h2>Check out my other projects!</h2>
-      <button class="btn btn-light">My Github</button>
+      <a class="btn btn-secondary" href="https://github.com/BenjaminNewitt" role="button">My Github</a>
     </div>
   </div>
 </template>
