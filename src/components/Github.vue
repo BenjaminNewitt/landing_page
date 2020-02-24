@@ -2,6 +2,11 @@
   <div class="github row">
     <div class="col-12 bg-dark text-light text-center pt-5 pb-5">
       <h2>Check out my other projects!</h2>
+      <div class="row d-flex justify-content-center">
+        <div class="col-1">
+          <hr class="border border-light" />
+        </div>
+      </div>
       <a
         class="btn btn-light text-dark"
         href="https://github.com/BenjaminNewitt"
@@ -17,5 +22,8 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+hr {
+  border-width: 2px !important;
+}
 </style>
