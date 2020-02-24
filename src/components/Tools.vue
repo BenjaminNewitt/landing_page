@@ -3,7 +3,7 @@
     <div class="col-12 bg-light text-dark text-center pt-5 pb-5">
       <h2 class="pb-3">Languages and Tools</h2>
       <div class="row justify-content-center">
-        <div class="col-6 col-md-2">
+        <div class="col-6 col-md-2 pb-2">
           <img src="~@/assets/CSS.png" alt />
         </div>
         <div class="col-6 col-md-2">
@@ -46,6 +46,7 @@ export default {
 
 <style scoped>
 img {
-  max-width: -webkit-fill-available;
+  /* max-width: -webkit-fill-available; */
+  max-width: 75%;
 }
 </style>
