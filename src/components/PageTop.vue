@@ -1,9 +1,9 @@
 <template>
   <div class="page row">
-    <div class="col-12 text-center splash-background">
+    <div class="col-12 text-center splash-background pt-5 pb-5">
       <!-- TODO align content of col with center of background image -->
       <h1 class="text-light pt-5">Full Stack Software Developer</h1>
-      <button class="btn btn-success">
+      <button class="btn btn-success mt-3">
         <h2 class="text-light">Learn More</h2>
       </button>
     </div>
