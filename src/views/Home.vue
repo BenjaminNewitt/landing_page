@@ -3,6 +3,7 @@
     <!-- <img alt="Vue logo" src="../assets/logo.png" /> -->
     <page-top />
     <about />
+    <tools />
     <github />
     <contact />
   </div>
@@ -11,6 +12,7 @@
 <script>
 import PageTop from "@/components/PageTop";
 import About from "@/components/About";
+import Tools from "@/components/Tools";
 import Github from "@/components/Github";
 import Contact from "@/components/ContactMe";
 export default {
@@ -18,6 +20,7 @@ export default {
   components: {
     PageTop,
     About,
+    Tools,
     Github,
     Contact
   }
