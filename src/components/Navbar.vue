@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-light bg-light">
-    <a class="navbar-brand" href="#">Benjamin Newitt</a>
+    <a class="navbar-brand" href="#page-top">Benjamin Newitt</a>
   </nav>
 </template>
 

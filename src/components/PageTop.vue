@@ -1,11 +1,11 @@
 <template>
-  <div class="page row">
+  <div class="page row" id="page-top">
     <div class="col-12 text-center splash-background pt-5 pb-5">
       <!-- TODO align content of col with center of background image -->
       <h1 class="text-light pt-5">Full Stack Software Developer</h1>
-      <button class="btn btn-success mt-3">
-        <h2 class="text-light">Learn More</h2>
-      </button>
+      <a class="btn btn-success" href="#about" role="button">
+        <h2>Learn More</h2>
+      </a>
     </div>
   </div>
 </template>
