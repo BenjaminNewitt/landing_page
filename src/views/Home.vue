@@ -4,22 +4,25 @@
     <div class="row">
       <div class="col-12 text-center splash-background">
         <!-- TODO align content of col with center of background image -->
-        <h1>Full Stack Software Developer</h1>
+        <h1 class="text-dark">Full Stack Software Developer</h1>
         <button class="btn btn-success">
           <h2>Learn More</h2>
         </button>
       </div>
     </div>
     <about />
+    <contact />
   </div>
 </template>
 
 <script>
 import About from "@/components/About";
+import Contact from "@/components/ContactMe";
 export default {
   name: "Home",
   components: {
-    About
+    About,
+    Contact
   }
 };
 </script>
@@ -28,6 +31,6 @@ export default {
   background-image: url(~@/assets/splash.jpg);
   background-repeat: no-repeat;
   background-size: 100% auto;
-  height: 100vh;
+  height: 100%;
 }
 </style>
