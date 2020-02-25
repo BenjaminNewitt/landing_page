@@ -1,5 +1,5 @@
 <template>
-  <div class="contact row">
+  <div class="contact row" id="contact-me">
     <div class="col-12 text-center text-dark bg-light pt-5 pb-5 justify-content-center">
       <h2>Contact Me</h2>
       <!-- hr for break between section title and section content -->

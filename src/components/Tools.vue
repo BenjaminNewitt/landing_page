@@ -1,5 +1,5 @@
 <template>
-  <div class="tools row">
+  <div class="tools row" id="tools">
     <div class="col-12 bg-light text-dark text-center pt-5 pb-5">
       <h2>Languages and Tools</h2>
       <div class="row d-flex justify-content-center">
