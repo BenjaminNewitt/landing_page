@@ -1,6 +1,6 @@
 <template>
   <div class="about row" id="about">
-    <div class="col-12 text-center text-dark bg-light mt-5 pt-3 pb-5">
+    <div class="col-12 text-center text-dark mt-5 pt-3 pb-5">
       <h2 class="m-0">About Me</h2>
       <div class="row d-flex justify-content-center">
         <div class="col-3 col-md-1">
@@ -8,7 +8,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-8 m-auto">
+        <div class="col-10 col-sm-8 m-auto">
           <p class="font-italic">
             If you can fill the unforgiving minute
             <br />With sixty seconds’ worth of distance run, <br />Yours is the

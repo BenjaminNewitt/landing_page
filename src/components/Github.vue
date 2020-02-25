@@ -16,11 +16,13 @@
                 Users create their own boards and lists of To-Do's and can write
                 notes for those lists
                 <br />
-                Environment: Vue, Node, MongoDB
+                Environment: HTML, CSS, Bootstrap Vue, Node, MongoDB
               </p>
             </div>
             <div class="card-footer">
-              <a href="#" class="btn btn-dark">Try it out here!</a>
+              <a href="https://nabnak.herokuapp.com" class="btn btn-dark"
+                >Try it out here!</a
+              >
             </div>
           </div>
         </div>
@@ -31,31 +33,39 @@
               <p class="card-text text-left">
                 Users build and play card games with friends
                 <br />
-                Environment: Vue, Node, MongoDB
+                Environment: HTML, CSS, Bootstrap, Vue, Node, MongoDB
               </p>
             </div>
             <div class="card-footer">
-              <a href="#" class="btn btn-dark">Check it out!</a>
+              <a href="https://wild-cards.herokuapp.com/" class="btn btn-dark"
+                >Check it out!</a
+              >
             </div>
           </div>
         </div>
         <div class="col-10 mx-auto col-sm-6 col-md-4">
           <div class="card text-dark" style="width: 100%; height: 100%">
             <div class="card-body">
-              <h5 class="card-title">Inspire</h5>
+              <h5 class="card-title">Keepr</h5>
               <p class="card-text text-left">
-                Dashboard utilizing a variety API's
+                Site for users to keep and share posts
                 <br />
-                Environment: Coming Soon
+                Environment: HTML, CSS, Bootstrap, Vue, C#, MySQL, Gearhost
               </p>
             </div>
             <div class="card-footer">
-              <a href="#" class="btn btn-dark">Coming Soon</a>
+              <a
+                href="https://github.com/BenjaminNewitt/keepr"
+                class="btn btn-dark"
+                >Check the repo here! (live site coming soon)</a
+              >
             </div>
           </div>
         </div>
       </div>
-      <h2 class="m-0 pt-5">Check out my other projects!</h2>
+      <h2 class="m-0 pt-5">
+        Check out my other projects and repositories on Github!
+      </h2>
       <div class="row d-flex justify-content-center">
         <div class="col-3 col-md-1">
           <hr class="border border-light" />
