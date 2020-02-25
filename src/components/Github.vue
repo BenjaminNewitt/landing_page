@@ -15,7 +15,8 @@
               <p class="card-text text-left">
                 Users create their own boards and lists of To-Do's and can write
                 notes for those lists
-                <br />
+              </p>
+              <p class="font-italic card-text text-left">
                 Environment: HTML, CSS, Bootstrap Vue, Node, MongoDB
               </p>
             </div>
@@ -32,13 +33,14 @@
               <h5 class="card-title">Wild Cards</h5>
               <p class="card-text text-left">
                 Users build and play card games with friends
-                <br />
+              </p>
+              <p class="font-italic card-text text-left">
                 Environment: HTML, CSS, Bootstrap, Vue, Node, MongoDB
               </p>
             </div>
             <div class="card-footer">
               <a href="https://wild-cards.herokuapp.com/" class="btn btn-dark"
-                >Check it out!</a
+                >Take a look!</a
               >
             </div>
           </div>
@@ -48,8 +50,9 @@
             <div class="card-body">
               <h5 class="card-title">Keepr</h5>
               <p class="card-text text-left">
-                Site for users to keep and share posts
-                <br />
+                Site for users to keep and share posts (live site coming soon)
+              </p>
+              <p class="font-italic card-text text-left">
                 Environment: HTML, CSS, Bootstrap, Vue, C#, MySQL, Gearhost
               </p>
             </div>
@@ -57,7 +60,7 @@
               <a
                 href="https://github.com/BenjaminNewitt/keepr"
                 class="btn btn-dark"
-                >Check the repo here! (live site coming soon)</a
+                >Check out the repo here!</a
               >
             </div>
           </div>
