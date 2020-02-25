@@ -2,16 +2,20 @@
   <div class="page row" id="page-top">
     <div class="col-12 text-center splash-background pt-5 pb-5">
       <!-- TODO align content of col with center of background image -->
-      <h1 class="text-light pt-5">Full Stack Software Developer</h1>
-      <!-- hr for break between section title and section content -->
-      <div class="row d-flex justify-content-center">
-        <div class="col-3 col-md-1">
-          <hr class="border border-light" />
+      <div class="row">
+        <div class="col-12 pt-5">
+          <h1 class="text-light pt-5">Full Stack Software Developer</h1>
+          <!-- hr for break between section title and section content -->
+          <div class="row d-flex justify-content-center">
+            <div class="col-3 col-md-1">
+              <hr class="border border-light" />
+            </div>
+          </div>
+          <a class="btn btn-success" href="#about" role="button">
+            <h2>Learn More</h2>
+          </a>
         </div>
       </div>
-      <a class="btn btn-success" href="#about" role="button">
-        <h2>Learn More</h2>
-      </a>
     </div>
   </div>
 </template>
