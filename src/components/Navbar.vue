@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
-    <a class="navbar-brand" href="#">Benjamin Newitt</a>
+    <a class="navbar-brand text-light" href="#">Benjamin Newitt</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -22,16 +22,16 @@
           </a>
         </li>-->
         <li class="nav-item">
-          <a class="nav-link" href="#about">About</a>
+          <a class="nav-link text-light" href="#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#github">Portfolio</a>
+          <a class="nav-link text-light" href="#github">Portfolio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#tools">Skills</a>
+          <a class="nav-link text-light" href="#tools">Skills</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#contact-me">Contact</a>
+          <a class="nav-link text-light" href="#contact-me">Contact</a>
         </li>
       </ul>
     </div>
@@ -44,7 +44,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .navbar {
   position: fixed;
   width: 100%;
