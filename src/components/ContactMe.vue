@@ -12,21 +12,27 @@
       </div>
       <div class="row d-flex justify-content-center">
         <div class="col-12 col-md-4 text-center">
-          <a href="mailto:benjaminnewitt@gmail.com">
-            <i class="fas fa-envelope fa-5x text-dark"></i>
-            <h4 class="text-dark">benjaminnewitt@gmail.com</h4>
+          <a
+            href="mailto:benjaminnewitt@gmail.com"
+            class="text-decoration-none text-dark"
+          >
+            <i class="fas fa-envelope fa-5x"></i>
+            <h4>benjaminnewitt@gmail.com</h4>
           </a>
         </div>
         <div class="col-12 col-md-4 text-center">
-          <a href="https://www.linkedin.com/in/benjamin-newitt/">
+          <a
+            href="https://www.linkedin.com/in/benjamin-newitt/"
+            class="text-decoration-none text-dark"
+          >
             <i class="fab fa-linkedin fa-5x"></i>
-            <h4 class="text-dark">LinkedIn</h4>
+            <h4>LinkedIn</h4>
           </a>
         </div>
         <div class="col-12 col-md-4 text-center">
-          <a href="tel:1-916-710-2739">
-            <i class="fas fa-phone-square-alt fa-5x text-dark"></i>
-            <h4 class="text-dark">(916)710-2739</h4>
+          <a href="tel:1-916-710-2739" class="text-decoration-none text-dark">
+            <i class="fas fa-phone-square-alt fa-5x"></i>
+            <h4>(916)710-2739</h4>
           </a>
         </div>
       </div>
