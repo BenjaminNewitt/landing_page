@@ -22,7 +22,7 @@
             </div>
             <div class="card-footer">
               <a href="https://nabnak.herokuapp.com" class="btn btn-dark"
-                >Try it out here!</a
+                >Try it out here</a
               >
             </div>
           </div>
@@ -40,7 +40,7 @@
             </div>
             <div class="card-footer">
               <a href="https://wild-cards.herokuapp.com/" class="btn btn-dark"
-                >Take a look!</a
+                >Take a look</a
               >
             </div>
           </div>
@@ -60,7 +60,7 @@
               <a
                 href="https://github.com/BenjaminNewitt/keepr"
                 class="btn btn-dark"
-                >Check out the repo here!</a
+                >Check out the repo here</a
               >
             </div>
           </div>
