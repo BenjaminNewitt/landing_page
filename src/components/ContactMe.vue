@@ -4,7 +4,7 @@
       <h2>Contact Me</h2>
       <!-- hr for break between section title and section content -->
       <div class="row d-flex justify-content-center">
-        <div class="col-1">
+        <div class="col-3 col-md-1">
           <hr class="border border-dark" />
         </div>
       </div>

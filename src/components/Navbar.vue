@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
-    <a class="navbar-brand" href="#page-top">Benjamin Newitt</a>
+    <a class="navbar-brand" href="#">Benjamin Newitt</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -25,7 +25,7 @@
           <a class="nav-link" href="#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Portfolio</a>
+          <a class="nav-link" href="#github">Portfolio</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#tools">Skills</a>
