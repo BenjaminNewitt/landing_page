@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
     <a class="navbar-brand" href="#page-top">Benjamin Newitt</a>
     <button
       class="navbar-toggler"
