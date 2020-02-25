@@ -4,7 +4,7 @@
       <!-- TODO align content of col with center of background image -->
       <div class="row">
         <div class="col-12 pt-5">
-          <h1 class="text-light pt-5">Full Stack Software Developer</h1>
+          <h1 class="text-light mb-0 pt-5">Full Stack Software Developer</h1>
           <!-- hr for break between section title and section content -->
           <div class="row d-flex justify-content-center">
             <div class="col-3 col-md-1">
