@@ -1,5 +1,5 @@
 <template>
-  <div class="home container-fluid">
+  <div class="home container-fluid bg-light">
     <!-- <img alt="Vue logo" src="../assets/logo.png" /> -->
     <page-top />
     <about />
@@ -26,5 +26,4 @@ export default {
   }
 };
 </script>
-<style>
-</style>
+<style></style>
