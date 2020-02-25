@@ -16,4 +16,7 @@ export default {
 </script>
 
 <style>
+#app {
+  font-family: "Lato";
+}
 </style>
