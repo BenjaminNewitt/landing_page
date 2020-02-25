@@ -29,6 +29,9 @@
             JavaScript, as well as frameworks such as Node.js and Vue, has taught me
             I'm also able to adapt to different virtual environments —and how to
             appreciate it.
+            <br />
+            <!-- hobbies, misc. -->
+            <br />Outside of developing, I delve into a variety of hobbies, including writing music, building custom Lego models, reading, modding and playing video games, hiking, and playing board and card games.
           </p>
         </div>
       </div>
