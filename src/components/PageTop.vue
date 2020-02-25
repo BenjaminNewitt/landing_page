@@ -1,6 +1,6 @@
 <template>
   <div class="page row" id="page-top">
-    <div class="col-12 text-center splash-background pt-5 pb-5">
+    <div class="col-12 text-center splash-background mt-5 pt-5 pb-5">
       <!-- TODO align content of col with center of background image -->
       <div class="row">
         <div class="col-12 pt-5">
@@ -28,13 +28,13 @@ export default {
 
 <style scoped>
 .page {
-  height: 80vh;
+  height: 100vh;
 }
 .splash-background {
   background-image: url(~@/assets/splash.jpg);
-  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-size: cover;
 }
 
 hr {
