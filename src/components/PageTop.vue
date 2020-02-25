@@ -28,9 +28,9 @@ export default {
 }
 .splash-background {
   background-image: url(~@/assets/splash.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
-  background-size: 100% auto;
-  height: 100%;
+  background-position: center center;
 }
 
 hr {
