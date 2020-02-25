@@ -8,39 +8,49 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-10 m-auto col-sm-6 col-md-4">
-          <div class="card text-dark" style="width: 100%;">
+        <div class="col-10 mx-auto col-sm-6 col-md-4">
+          <div class="card text-dark" style="width: 100%; height: 100%">
             <div class="card-body">
               <h5 class="card-title">Nabnak</h5>
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              <p class="card-text text-left">
+                Users create their own boards and lists of To-Do's and can write
+                notes for those lists
+                <br />
+                Environment: Vue, Node, MongoDB
               </p>
-              <a href="#" class="btn btn-dark">Go somewhere</a>
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-dark">Try it out here!</a>
             </div>
           </div>
         </div>
-        <div class="col-10 m-auto col-sm-6 col-md-4">
-          <div class="card text-dark" style="width: 100%;">
+        <div class="col-10 mx-auto col-sm-6 col-md-4">
+          <div class="card text-dark" style="width: 100%; height: 100%">
             <div class="card-body">
               <h5 class="card-title">Wild Cards</h5>
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              <p class="card-text text-left">
+                Users build and play card games with friends
+                <br />
+                Environment: Vue, Node, MongoDB
               </p>
-              <a href="#" class="btn btn-dark">Go somewhere</a>
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-dark">Check it out!</a>
             </div>
           </div>
         </div>
-        <div class="col-10 m-auto col-sm-6 col-md-4">
-          <div class="card text-dark" style="width: 100%;">
+        <div class="col-10 mx-auto col-sm-6 col-md-4">
+          <div class="card text-dark" style="width: 100%; height: 100%">
             <div class="card-body">
               <h5 class="card-title">Inspire</h5>
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              <p class="card-text text-left">
+                Dashboard utilizing a variety API's
+                <br />
+                Environment: Coming Soon
               </p>
-              <a href="#" class="btn btn-dark">Go somewhere</a>
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-dark">Coming Soon</a>
             </div>
           </div>
         </div>
