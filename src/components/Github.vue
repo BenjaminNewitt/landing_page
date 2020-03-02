@@ -9,7 +9,10 @@
       </div>
       <div class="row">
         <div class="col-10 mx-auto col-sm-6 col-md-4">
-          <div class="card text-dark" style="width: 100%; height: 100%">
+          <div
+            class="card text-dark border-dark"
+            style="width: 100%; height: 100%"
+          >
             <div class="card-body">
               <h5 class="card-title">Nabnak</h5>
               <p class="card-text text-left">
@@ -28,7 +31,15 @@
           </div>
         </div>
         <div class="col-10 mx-auto col-sm-6 col-md-4">
-          <div class="card text-dark" style="width: 100%; height: 100%">
+          <div
+            class="card text-dark border-dark"
+            style="width: 100%; height: 100%"
+          >
+            <img
+              src="~@/assets/wild_cards.png"
+              class="card-img-top"
+              alt="..."
+            />
             <div class="card-body">
               <h5 class="card-title">Wild Cards</h5>
               <p class="card-text text-left">
@@ -46,7 +57,11 @@
           </div>
         </div>
         <div class="col-10 mx-auto col-sm-6 col-md-4">
-          <div class="card text-dark" style="width: 100%; height: 100%">
+          <div
+            class="card text-dark border-dark"
+            style="width: 100%; height: 100%"
+          >
+            <img src="~@/assets/keepr.png" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Keepr</h5>
               <p class="card-text text-left">
