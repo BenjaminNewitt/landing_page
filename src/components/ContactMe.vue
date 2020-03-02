@@ -14,6 +14,7 @@
         <div class="col-12 col-md-4 text-center">
           <a
             href="mailto:benjaminnewitt@gmail.com"
+            target="_blank"
             class="text-decoration-none text-dark"
           >
             <i class="fas fa-envelope fa-5x"></i>
@@ -23,6 +24,7 @@
         <div class="col-12 col-md-4 text-center">
           <a
             href="https://www.linkedin.com/in/benjamin-newitt/"
+            target="_blank"
             class="text-decoration-none text-dark"
           >
             <i class="fab fa-linkedin fa-5x"></i>
@@ -30,7 +32,11 @@
           </a>
         </div>
         <div class="col-12 col-md-4 text-center">
-          <a href="tel:1-916-710-2739" class="text-decoration-none text-dark">
+          <a
+            href="tel:1-916-710-2739"
+            target="_blank"
+            class="text-decoration-none text-dark"
+          >
             <i class="fas fa-phone-square-alt fa-5x"></i>
             <h4>(916)710-2739</h4>
           </a>

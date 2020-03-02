@@ -24,7 +24,10 @@
               </p>
             </div>
             <div class="card-footer">
-              <a href="https://nabnak.herokuapp.com" class="btn btn-dark"
+              <a
+                href="https://nabnak.herokuapp.com"
+                target="_blank"
+                class="btn btn-dark"
                 >Try it out here</a
               >
             </div>
@@ -50,7 +53,10 @@
               </p>
             </div>
             <div class="card-footer">
-              <a href="https://wild-cards.herokuapp.com/" class="btn btn-dark"
+              <a
+                href="https://wild-cards.herokuapp.com/"
+                target="_blank"
+                class="btn btn-dark"
                 >Take a look</a
               >
             </div>
@@ -72,7 +78,10 @@
               </p>
             </div>
             <div class="card-footer">
-              <a href="https://keepr-v.herokuapp.com" class="btn btn-dark"
+              <a
+                href="https://keepr-v.herokuapp.com"
+                target="_blank"
+                class="btn btn-dark"
                 >Test it Here</a
               >
             </div>
@@ -90,6 +99,7 @@
       <a
         class="btn btn-light text-dark"
         href="https://github.com/BenjaminNewitt"
+        target="_blank"
         role="button"
         >My Github</a
       >
