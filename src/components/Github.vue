@@ -50,17 +50,15 @@
             <div class="card-body">
               <h5 class="card-title">Keepr</h5>
               <p class="card-text text-left">
-                Site for users to keep and share posts (live site coming soon)
+                Site for users to keep and share posts
               </p>
               <p class="font-italic card-text text-left">
                 Environment: HTML, CSS, Bootstrap, Vue, C#, MySQL, Gearhost
               </p>
             </div>
             <div class="card-footer">
-              <a
-                href="https://github.com/BenjaminNewitt/keepr"
-                class="btn btn-dark"
-                >Check out the repo here</a
+              <a href="https://keepr-v.herokuapp.com" class="btn btn-dark"
+                >Test it Here</a
               >
             </div>
           </div>
