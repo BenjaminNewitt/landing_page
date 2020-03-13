@@ -95,13 +95,13 @@
               </p>
             </div>
             <div class="card-footer">
-              <!-- <a
+              <a
                 href="https://nabnak.herokuapp.com"
                 target="_blank"
                 class="btn btn-dark"
                 >Try it out here</a
-              > -->
-              <button class="btn btn-dark disabled">Coming soon</button>
+              >
+              <!-- <button class="btn btn-dark disabled">Coming soon</button> -->
             </div>
           </div>
         </div>
