@@ -1,9 +1,9 @@
 <template>
   <div class="tools row" id="tools">
-    <div class="col-12 bg-light text-dark text-center mt-5 pt-3 pb-5">
+    <div class="col-10 mx-auto bg-light text-dark text-center mt-5 pt-3 pb-5">
       <h2 class="m-0">Languages and Tools</h2>
       <div class="row d-flex justify-content-center">
-        <div class="col-3 col-md-1">
+        <div class="col-3 col-md-1 mb-5">
           <hr class="border border-dark" />
         </div>
       </div>
@@ -33,10 +33,25 @@
           <img src="~@/assets/csharp.png" alt />
         </div>
         <div class="col-6 col-sm-2">
+          <img src="~@/assets/sharepoint.png" alt />
+        </div>
+        <div class="col-6 col-sm-2">
+          <img src="~@/assets/azure-logo.png" alt />
+        </div>
+        <div class="col-6 col-sm-2">
           <img src="~@/assets/mySQL.png" alt />
         </div>
         <div class="col-6 col-sm-2">
+          <img src="~@/assets/visual-studio-code.png" alt />
+        </div>
+        <div class="col-6 col-sm-2">
+          <img src="~@/assets/visual-studio.png" alt />
+        </div>
+        <div class="col-6 col-sm-2">
           <img src="~@/assets/git.png" alt />
+        </div>
+        <div class="col-6 col-sm-2">
+          <img src="~@/assets/dotnet-core.png" alt />
         </div>
       </div>
     </div>
