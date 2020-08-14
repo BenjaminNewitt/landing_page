@@ -48,6 +48,9 @@
           <img src="~@/assets/visual-studio.png" alt />
         </div>
         <div class="col-6 col-sm-2">
+          <img src="~@/assets/github-logo.png" alt />
+        </div>
+        <div class="col-6 col-sm-2">
           <img src="~@/assets/git.png" alt />
         </div>
         <div class="col-6 col-sm-2">
