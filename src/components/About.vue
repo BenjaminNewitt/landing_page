@@ -1,7 +1,7 @@
 <template>
   <div class="about row" id="about">
-    <div class="col-12 text-center text-dark mt-5 pt-3 pb-5">
-      <h2 class="m-0">About Me</h2>
+    <div class="col-12 text-center text-dark mt-5 pt-3 pb-5" data-aos="fade-up" data-aos-duration="800">
+      <h2 class="m-0" >About Me</h2>
       <div class="row d-flex justify-content-center">
         <div class="col-3 col-md-1">
           <hr class="border border-dark" />

@@ -1,7 +1,7 @@
 <template>
   <div class="page row" id="page-top">
     <div class="col-12  align-items-center d-flex justify-content-center text-center splash-background">
-      <div class="row align-items-center">
+      <div class="row align-items-center" data-aos="fade-up" data-aos-duration="800">
         <div class="col-12 my-auto">
           <h1 class="text-light mb-0 pt-5 text-shadow">Full Stack Software Developer</h1>
           <!-- hr for break between section title and section content -->
