@@ -1,5 +1,6 @@
 <template>
   <div class="tools row" id="tools">
+    <!-- TODO add links to tools for quick viewing, instead of cluttering up the component with text -->
     <div class="col-10 mx-auto bg-light text-dark text-center mt-5 pt-3 pb-5" data-aos="fade-up" data-aos-duration="800">
       <h2 class="m-0">Languages and Tools</h2>
       <div class="row d-flex justify-content-center">
