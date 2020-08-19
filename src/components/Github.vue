@@ -1,6 +1,6 @@
 <template>
   <div class="github row" id="github">
-    <div class="col-12 bg-dark text-light text-center mt-5 pt-3 pb-5">
+    <div class="col-12 bg-dark text-light text-center mt-5 pt-3 pb-5" data-aos="fade-up" data-aos-duration="800">
       <h2 class="m-0">Showcase</h2>
       <div class="row d-flex justify-content-center">
         <div class="col-3 col-md-1">

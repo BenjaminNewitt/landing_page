@@ -1,13 +1,12 @@
 <template>
   <div class="page row" id="page-top">
-    <div class="col-12 text-center splash-background mt-5 pt-5 pb-5">
-      <!-- TODO align content of col with center of background image -->
-      <div class="row">
-        <div class="col-12 pt-5">
-          <h1 class="text-light mb-0 pt-5">Full Stack Software Developer</h1>
+    <div class="col-12  align-items-center d-flex justify-content-center text-center splash-background">
+      <div class="row align-items-center" data-aos="fade-up" data-aos-duration="800">
+        <div class="col-12 my-auto">
+          <h1 class="text-light mb-0 pt-5 text-shadow">Full Stack Software Developer</h1>
           <!-- hr for break between section title and section content -->
           <div class="row d-flex justify-content-center">
-            <div class="col-3 col-md-1">
+            <div class="col-6 col-md-3">
               <hr class="border border-light" />
             </div>
           </div>
@@ -39,5 +38,9 @@ export default {
 
 hr {
   border-width: 2px !important;
+}
+
+.text-shadow {
+	text-shadow: 1px 1px 2px black;
 }
 </style>
