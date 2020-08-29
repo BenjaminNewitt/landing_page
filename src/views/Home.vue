@@ -26,4 +26,9 @@ export default {
   }
 };
 </script>
-<style></style>
+<style>
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+
+</style>
