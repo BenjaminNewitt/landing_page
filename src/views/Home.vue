@@ -5,7 +5,7 @@
     <about />
     <tools />
     <github />
-    <!-- <published /> -->
+    <published />
     <contact />
   </div>
 </template>
