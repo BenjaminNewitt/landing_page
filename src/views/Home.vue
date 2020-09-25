@@ -5,6 +5,7 @@
     <about />
     <tools />
     <github />
+    <!-- <published /> -->
     <contact />
   </div>
 </template>
@@ -14,6 +15,7 @@ import PageTop from "@/components/PageTop";
 import About from "@/components/About";
 import Tools from "@/components/Tools";
 import Github from "@/components/Github";
+import Published from "@/components/PublishedSites";
 import Contact from "@/components/ContactMe";
 export default {
   name: "Home",
@@ -22,6 +24,7 @@ export default {
     About,
     Tools,
     Github,
+    Published,
     Contact
   }
 };
