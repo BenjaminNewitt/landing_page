@@ -24,6 +24,7 @@
         <li class="nav-item">
           <a class="nav-link text-light" href="#tools">Skills</a>
         </li>
+        <!-- TODO add section for published sites -->
         <li class="nav-item">
           <a class="nav-link text-light" href="#contact-me">Contact</a>
         </li>

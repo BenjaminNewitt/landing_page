@@ -1,6 +1,5 @@
 <template>
   <div class="home container-fluid bg-light">
-    <!-- <img alt="Vue logo" src="../assets/logo.png" /> -->
     <page-top />
     <about />
     <tools />
